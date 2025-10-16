@@ -16,12 +16,14 @@ def left_path():
     print("A fierce dragon appears!")
 def ceneter_path():
     print("You walk ceneter and find a mysterious glowing sword stuck in a stone.")
+    print("The hero decides to take the center path...")
 
 def right_path():
     print("You walk right and encounter a talking squirrel who challenges you to a duel.")
     print("The Hero takes the right path.")
     print("A dark curse overtakes them.") 
     0
+
 
 if __name__ == "__main__":
     intro()
