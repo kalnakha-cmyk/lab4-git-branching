@@ -1,3 +1,4 @@
+
 # Lab 4: Git Basics and Branching
 
 ## Overview
@@ -15,8 +16,12 @@ You will:
 ## Branch Summaries
 
 - `main`: Original story starter
-- `hero-path`: _[Describe your changes here]_
-- `villain-path`: _[Describe your changes here]_
+- `hero-path`: _[Describe your changes here]_  "Summarize hero path in README.md". - hero-path: The hero defeats a dragon and saves the kingdom.
+
+- `villain-path`: _[Describe your changes here]_ I added two commits "- villain-path: The hero becomes corrupted and turns into a villain.- villain-path: The hero becomes corrupted and turns into a villain.
+
+"
+
 
 ## Final Checklist
 
